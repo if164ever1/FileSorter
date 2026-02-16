@@ -1,0 +1,12 @@
+directories:
+  downloads: "~/Downloads"
+  organized: "~/Documents/FileSorter_Organized"
+
+extensions:
+  images: [".jpg", ".jpeg", ".png", ".gif"]
+  documents: [".pdf", ".docx", ".txt"]
+  archives: [".zip", ".tar", ".gz"]
+
+ai_processing:
+  enabled: true
+  target_extensions: [".pdf"]
